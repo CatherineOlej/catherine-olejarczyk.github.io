@@ -12,7 +12,7 @@ Visit https://catherineolej.github.io/catherine-olejarczyk.github.io/index.html
 ### Clone this repository
 
 ```
-git clone https://github.com/mrodrigues95/info2300-blogit.git
+git clone https://github.com/CatherineOlej/catherine-olejarczyk.github.io.git
 ```
 
 ## How to use My Portfolio Site
