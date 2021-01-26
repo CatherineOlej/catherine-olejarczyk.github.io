@@ -20,8 +20,8 @@ body {
 
 .navbar {
     /*background: #FC3C80;
-    background: #821D30;*/
-    background: #00E0EA;
+    background: #821D30;00E0EA*/
+    background: #00e0ead4;
     min-height: 80px;
 }
 
@@ -254,7 +254,6 @@ section#contact {
     /*background: linear-gradient(rgba(0, 0, 0, 5), rgba(0, 0, 0, 0.3)), url(../img/5.jpg);*/
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
 }
 
 .portfolio-item {
