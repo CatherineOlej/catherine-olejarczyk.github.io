@@ -6,12 +6,10 @@ body {
     font-weight: 400;
     line-height: 1.5;
     text-align: left;
-    background-image: url(../img/rocks.jpg);
-    background-repeat: no-repeat;
+    background-image: url(../img/white-wood.jpg);
 }
 
 .section-custom {
-    background-image: url(../img/rocks.jpg);
     background-repeat: no-repeat;
 }
 
@@ -19,9 +17,9 @@ body {
 /*--- navigation bar ---*/
 
 .navbar {
-    /*background: #FC3C80;
-    background: #821D30;00E0EA*/
-    background: #00e0ead4;
+    background: #FC3C80;
+    /*background: #821D30;00E0EA
+    background: #00e0ead4;*/
     min-height: 80px;
 }
 
