@@ -1,6 +1,6 @@
 # Portfolio by Catherine Olejarczyk
 
-Welcome! Here I've developed a website portfolio from scratch using my inspiration and imagination. 
+Welcome! Here I've developed a website portfolio from scratch using my inspiration and creativity. 
 I am showcaseing my past work to demonstrate my graphical skills in Adobe Creative Suite (Photoshop, Illustrator) and Blender. Also, there you will find a link to my Github repositories
 where I have a series of projects done during my time in college. Most of these projects are web applications which additionaly demonstrate my programming skills. 
 Thank you for taking the time to view my portfolio website. 
